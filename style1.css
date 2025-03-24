@@ -1,0 +1,72 @@
+.main{
+    height: 800px;
+    background-color: gray;
+}
+.picture{
+    height: 312px;
+    width: 391px;
+    float: left;
+    margin-top: 169px;
+    margin-left: 280px;
+}
+.left-div{
+    width: 50%;
+    float: left;
+}
+.right-div{
+    width: 50%;
+    float: left;
+    margin-top: 97px
+
+}
+.white{
+    color: white;
+}
+.nav-part{
+        padding-left: 715px;
+        padding-top: 154px;
+        width: 100%;
+        background-color: white;
+        padding: 30px;
+        position: sticky;
+
+}
+.table-part{
+        padding-top:11px;
+        background-color:white;
+
+}
+.body-part{
+    margin-top: -108px;
+}
+.space{
+    padding-left: 23px;
+}
+.a-tag{
+    text-decoration: none;
+    align-items: center;
+    margin-left: 50px;
+}
+.page2-header{
+        height: 118px;
+    background-color: grey;
+}
+h1{
+    padding-top: 41px;
+    color: white;
+}
+.t-class{
+    margin-left: 456px;
+}
+.t-contact{
+         text-align: center;
+    margin-left: 641px;
+    margin-top: 39px;
+}
+.skills2{
+
+    list-style-type: square;
+    margin-left: 605px;
+    font-size: 36px;
+    margin-top: 69px;
+}
